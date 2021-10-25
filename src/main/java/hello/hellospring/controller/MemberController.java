@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.ui.Model;
 import java.util.List;
 
-import hello.hellospring.domain.Member;
+import hello.hellospring.entity.Member;
 
 import hello.hellospring.service.MemberService;
 
